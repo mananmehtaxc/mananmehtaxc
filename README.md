@@ -1,6 +1,6 @@
 # 🌟 Welcome to Manan's GitHub! 👨‍💻  
 
-Hi there! 👋 I'm **[Your Name]**, a passionate Solutions Architect 🚀 with over 10 years of experience in designing scalable and resilient systems. Currently aspiring to transition into the exciting world of **AI/ML** 🤖 to drive innovative enterprise-wide initiatives.  
+Hi there! 👋 I'm **Manan Mehta**, a passionate Solutions Architect 🚀 with over 10 years of experience in designing scalable and resilient systems. Currently aspiring to transition into the exciting world of **AI/ML** 🤖 to drive innovative enterprise-wide initiatives.  
 
 ## 🛠️ Tech Stack  
 - **Cloud Platforms:** ☁️ AWS, Google Cloud  
