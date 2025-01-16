@@ -15,11 +15,11 @@ Hi there! 👋 I'm **[Your Name]**, a passionate Solutions Architect 🚀 with o
 - 📊 Optimizing enterprise data integration strategies  
 
 ## 📂 Projects  
-### 🔄 [Data Migration]  
+### 🔄 Data Migration 
 **Description:** A seamless integration pipeline for real-time data flow using Solace and Mulesoft.  
 **Tech Stack:** Solace (PubSub + Event Broker), Mulesoft
 
-### 🤖 [ChatBot POC]  
+### 🤖 ChatBot POC 
 **Description:** Experimenting with GPT-based natural language processing for personalized customer experiences.  
 **Tech Stack:** Python 🐍, TensorFlow, Hugging Face 🤗  
 
