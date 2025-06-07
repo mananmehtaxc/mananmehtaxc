@@ -4,9 +4,14 @@ Hi there! 👋 I'm **Manan Mehta**, a passionate Solutions Architect 🚀 with o
 
 ## 🛠️ Tech Stack  
 - **Cloud Platforms:** ☁️ AWS, Google Cloud  
-- **Integration Tools:** 🔗 Mulesoft, Workato, Kafka  
-- **Modern Architectures:** 🏗️ Microservices, Docker 🐳, Kubernetes ☸️  
-- **Programming Languages:** 💻 JavaScript, Python 🐍, SQL  
+- **Integration Tools:** 🔗 Mulesoft, Workato
+- **Messaging & Streaming:** 📩 Kafka, Solace, AWS SQS/SNS  
+- **Containerization & Orchestration:** 🐳 Docker for containerization and packaging; ☸️ Kubernetes for automating deployment, scaling, and management of containers.
+- **Modern Architecture:** 🚀 Cloud-Native, Microservices, Event-Driven, Serverless, API-First, Containers, CI/CD 
+- **Integration Patterns:** 🔄 Event-Driven Architecture, Publish-Subscribe, SOA (Service Oriented Architecture)
+- **Programming Languages:** 💻 JavaScript, Python 🐍, SQL, Ruby 💎, Java, Dataweave
+- **API Design & Protocols:** 🌐 RESTful APIs, GraphQL
+- **Dev Ops and Monitoring:** ⚙️ Jenkins, GitHub, Bitbucket, Kibana, Datadog, Grafana
 - **Generative AI:** 🌌 Exploring GPT models and Generative AI integrations  
 
 ## ✨ Current Interests  
