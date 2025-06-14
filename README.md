@@ -15,6 +15,7 @@ Hi there! 👋 I'm **Manan Mehta**, a passionate Solutions Architect 🚀 with o
 - **Generative AI:** 🌌 Exploring GPT models and Generative AI integrations  
 
 ## ✨ Current Interests  
+- 💭 AI Architecture, Agentic AI, AI/ML Ops, GenAI Applications
 - 🌍 Bridging business needs with cutting-edge technology  
 - 🤖 Exploring predictive analytics and intelligent automation with AI  
 - 📊 Optimizing enterprise data integration strategies  
