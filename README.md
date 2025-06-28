@@ -47,6 +47,6 @@ Hi there! 👋 I'm **Manan Mehta**, a passionate Solutions Architect 🚀 with o
 
 ## 📢 Let’s Connect!  
 - 💼 [LinkedIn](https://linkedin.com/in/mananmehta64)  
-- 🖼️ [Blog](https://learnwithmanan.medium.com/)  
+- 🖼️ [Blog](https://learningmindquest.medium.com/)  
 
 Thanks for stopping by! 🚀 Let’s build something amazing together! 💡
